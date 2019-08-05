@@ -1,0 +1,1 @@
+IBM App Connect Java user-defined node for MicroStrategy event triggering. Implementation 
